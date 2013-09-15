@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">робо тест</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="come_on_collage">Давай коллаж</string>
+    <string name="correct_name">Введите правильное имя</string>
+</resources>
