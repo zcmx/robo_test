@@ -4,5 +4,13 @@
     <string name="user_name">User name</string>
     <string name="come_on_collage">Come on collage</string>
     <string name="correct_name">Insert the correct name, plz</string>
+    <string name="no_data_users">No body :-(</string>
+    <string name="no_data_photo">No photos :-(</string>
+
+    <string name="data">data</string>
+    <string name="username">username</string>
+    <string name="full_name">full_name</string>
+    <string name="id">id</string>
+    <string name="profile_picture">profile_picture</string>
 
 </resources>

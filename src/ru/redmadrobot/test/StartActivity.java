@@ -20,11 +20,17 @@ public class StartActivity extends Activity {
 
     public void comeOnCollageClick(View view){
         try {
-            Intent intent = new Intent(this, ProcessResponse.class);
-            intent.putExtra(USER_NAME_REQUEST, URLEncoder.encode(((EditText)findViewById(R.id.userName)).getText().toString(), "UTF-8"));
-            startActivity(intent);
+            EditText searchName = (EditText)findViewById(R.id.searchName);
+            if(searchName.getText().toString().trim().isEmpty()) {
+                searchName.requestFocus();
+                Toast.makeText(this, getString(R.string.correct_name), Toast.LENGTH_LONG).show();
+            }else{
+                Intent intent = new Intent(this, ListUsers.class);
+                intent.putExtra(USER_NAME_REQUEST, URLEncoder.encode(searchName.getText().toString(), "UTF-8"));
+                startActivity(intent);
+            }
         } catch (UnsupportedEncodingException e) {
-            findViewById(R.id.userName).requestFocus();
+            findViewById(R.id.searchName).requestFocus();
             Toast.makeText(this, getString(R.string.correct_name), Toast.LENGTH_LONG).show();
         }
     }

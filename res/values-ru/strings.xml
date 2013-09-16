@@ -3,5 +3,7 @@
     <string name="app_name">робо тест</string>
     <string name="user_name">Имя пользователя</string>
     <string name="come_on_collage">Давай коллаж</string>
-    <string name="correct_name">Введите правильное имя</string>
+    <string name="correct_name">Введите корректное имя</string>
+    <string name="no_data_users">Никого нет :-(</string>
+    <string name="no_data_photo">А фотки зажал :-(</string>
 </resources>
