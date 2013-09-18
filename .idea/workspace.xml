@@ -29,28 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="711af340-fc5b-4575-9189-23fbfbb743bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/ShareCollageBtn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/look_at_collage_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/photo_img.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/send_collage_button.xml" />
-      <change type="DELETED" beforePath="C:\Users\Acer\android\robot_test\res\layout\instagram_response.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Acer\android\robot_test\res\layout\list_users.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Acer\android\robot_test\src\ru\redmadrobot\test\ProcessResponse.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Acer\android\robot_test\src\ru\redmadrobot\test\UserCardFragment.java" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/LookAtBtn.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/redmadrobot/test/InstargamServe.java" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/InstargamServe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/redmadrobot/test/ListUsers.java" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/ListUsers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/redmadrobot/test/PhotoPicker.java" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/PhotoPicker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/redmadrobot/test/UserPhoto.java" afterPath="$PROJECT_DIR$/src/ru/redmadrobot/test/UserPhoto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/dimens.xml" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/photo_pick.xml" afterPath="$PROJECT_DIR$/res/layout/photo_pick.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/photo_pickers.xml" afterPath="$PROJECT_DIR$/res/layout/photo_pickers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-ru/strings.xml" afterPath="$PROJECT_DIR$/res/values-ru/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/user_card.xml" afterPath="$PROJECT_DIR$/res/layout/user_card.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="robot_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -210,10 +189,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListUsers.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ListUsers.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/ListUsers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="88" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.4117647">
+            <state line="42" column="88" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.32352942">
               <folding />
             </state>
           </provider>
@@ -235,15 +223,6 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="43" selection-start="355" selection-end="355" vertical-scroll-proportion="-4.08">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -276,7 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/redmadrobot/test/TestImg.java" />
         <option value="$PROJECT_DIR$/src/ru/redmadrobot/test/UserPhoto.java" />
         <option value="$PROJECT_DIR$/res/layout/look_at_collage_button.xml" />
         <option value="$PROJECT_DIR$/src/ru/redmadrobot/test/LookAtCollage.java" />
@@ -292,6 +270,7 @@
         <option value="$PROJECT_DIR$/src/ru/redmadrobot/test/Collage.java" />
         <option value="$PROJECT_DIR$/res/layout/user_card.xml" />
         <option value="$PROJECT_DIR$/src/ru/redmadrobot/test/ListUsers.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -765,13 +744,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/InstargamServe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/photo_pick.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -893,7 +865,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/ListUsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="88" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.4117647">
+        <state line="42" column="88" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.32352942">
           <folding />
         </state>
       </provider>
