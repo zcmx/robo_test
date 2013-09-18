@@ -5,5 +5,9 @@
     <string name="come_on_collage">Давай коллаж</string>
     <string name="correct_name">Введите корректное имя</string>
     <string name="no_data_users">Никого нет :-(</string>
-    <string name="no_data_photo">А фотки зажал :-(</string>
+    <string name="no_data_photo">А фоток нет :-(</string>
+    <string name="email_subject">Фото коллаж ;-)</string>
+    <string name="send_email">Отправляю письмо...</string>
+    <string name="look_at">Посмотреть коллаж</string>
+    <string name="send_collage">Поделиться</string>
 </resources>

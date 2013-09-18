@@ -3,4 +3,9 @@
     <dimen name="indent_16dp">16dp</dimen>
     <dimen name="indent_8dp">8dp</dimen>
     <dimen name="indent_4dp">4dp</dimen>
+
+
+    <integer name="indent_16">16</integer>
+    <integer name="indent_8">8</integer>
+    <integer name="indent_4">4</integer>
 </resources>

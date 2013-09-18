@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
               android:layout_width="match_parent"
+              android:layout_marginBottom="@dimen/indent_8dp"
               android:layout_height="match_parent">
+    <RelativeLayout
+            android:layout_marginTop="@dimen/indent_8dp"
+            android:layout_marginRight="@dimen/indent_8dp"
+            android:layout_marginLeft="@dimen/indent_8dp"
+            android:layout_marginBottom="48dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/wrapGridPhoto">
     <LinearLayout android:layout_gravity="center"
                   android:gravity="center"
-        android:id="@+id/header"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"/>
+                    android:id="@+id/header"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
 
     <GridView
-            android:alwaysDrawnWithCache="true"
-            android:scrollingCache="true"
+            android:requiresFadingEdge="vertical"
+            android:smoothScrollbar="true"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/header"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:id="@+id/gridViewPhoto"
-            android:columnWidth="150dp"
             android:numColumns="auto_fit"
-            android:verticalSpacing="5dp"
-            android:horizontalSpacing="5dp"
-            android:stretchMode="none"
             />
-</LinearLayout>
+
+
+    </RelativeLayout>
+
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/operationPanel"
+            android:layout_centerHorizontal="true"/>
+
+
+
+
+</RelativeLayout>

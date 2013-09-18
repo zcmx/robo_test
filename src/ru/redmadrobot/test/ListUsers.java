@@ -9,10 +9,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.ImageView;
-import android.widget.TextView;
+import android.widget.*;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -40,6 +37,9 @@ public class ListUsers extends ListActivity {
         noData = getLayoutInflater().inflate(R.layout.no_data, null);
         ((TextView)noData.findViewById(R.id.message)).setText(getString(R.string.no_data_users));
         getListView().addHeaderView(header);
+        getListView().setPadding(getResources().getInteger(R.integer.indent_8),getResources().getInteger(R.integer.indent_16),
+                                getResources().getInteger(R.integer.indent_8),getResources().getInteger(R.integer.indent_16));
+
         setListAdapter(cardAdapter);
         getListView().setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override

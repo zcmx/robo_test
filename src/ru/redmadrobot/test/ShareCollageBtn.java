@@ -6,10 +6,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-
-public class UserCardFragment extends Fragment {
+/**
+ * User: zcmx
+ * Date: 18.09.13
+ * Time: 10:34
+ */
+public class ShareCollageBtn extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.user_card, container, false);
+        return inflater.inflate(R.layout.send_collage_button, container, false);
     }
 }

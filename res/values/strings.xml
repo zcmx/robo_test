@@ -6,11 +6,30 @@
     <string name="correct_name">Insert the correct name, plz</string>
     <string name="no_data_users">No body :-(</string>
     <string name="no_data_photo">No photos :-(</string>
+    <string name="look_at">Look at collage</string>
+    <string name="send_collage">Share</string>
 
+    <!-- JSON users -->
     <string name="data">data</string>
     <string name="username">username</string>
     <string name="full_name">full_name</string>
     <string name="id">id</string>
     <string name="profile_picture">profile_picture</string>
+
+    <!-- Send collage email -->
+    <string name="email_intent_type">application/image</string>
+    <string name="append_to_path_on_collage">file:///</string>
+    <string name="email_subject">Photo collage ;-)</string>
+    <string name="send_email">Send email...</string>
+    <string name="jpg_suffix">.jpg</string>
+
+    <!-- JSON photo -->
+    <string name="type">type</string>
+    <string name="likes">likes</string>
+    <string name="count">count</string>
+    <string name="images">images</string>
+    <string name="image">image</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="url">url</string>
 
 </resources>
