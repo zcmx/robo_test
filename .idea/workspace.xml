@@ -3,10 +3,8 @@
   <component name="AndroidDesignerProfile">
     <option name="fullProfile">
       <profile>
-        <option name="device" value="2.7in QVGA" />
-        <option name="deviceConfiguration" value="Portrait" />
+        <option name="device" value="[None]" />
         <option name="localeLanguage" value="ru" />
-        <option name="targetHashString" value="android-17" />
         <option name="theme" value="AppStyle" />
       </profile>
     </option>
@@ -30,12 +28,18 @@
   <component name="ChangeListManager">
     <list default="true" id="711af340-fc5b-4575-9189-23fbfbb743bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/ru/redmadrobot/test/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/ru/redmadrobot/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/ru/redmadrobot/test/Manifest.java" afterPath="$PROJECT_DIR$/gen/ru/redmadrobot/test/Manifest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/ru/redmadrobot/test/R.java" afterPath="$PROJECT_DIR$/gen/ru/redmadrobot/test/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="robot_test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/AndroidManifest.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379415790762" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379565453557" ignored="false" />
     <file path="/styles.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379161542121" ignored="false" />
-    <file path="/Dummy.txt" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379523782205" ignored="false" />
+    <file path="/Dummy.txt" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379565379846" ignored="false" />
     <file path="/main.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379313472926" ignored="false" />
     <file path="/strings.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379487539746" ignored="false" />
     <file path="/dimens.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379491043363" ignored="false" />
@@ -43,8 +47,6 @@
     <file path="/instagram_response.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379317597851" ignored="false" />
     <file path="/InstagramResponse.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379180367006" ignored="false" />
     <file path="/StartActivity.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379409012195" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/ru/redmadrobot/test/Manifest.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379322880963" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/ru/redmadrobot/test/BuildConfig.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379356210263" ignored="false" />
     <file path="/ProcessResponse.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379317805351" ignored="false" />
     <file path="/progress_bar.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379353626474" ignored="false" />
     <file path="/colors.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379266809103" ignored="false" />
@@ -55,7 +57,7 @@
     <file path="$PROJECT_DIR$/../CB/gen/my/cook/book/cb/R.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379311797223" ignored="false" />
     <file path="$PROJECT_DIR$/../CB/gen/my/cook/book/cb/Manifest.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379311797223" ignored="false" />
     <file path="$PROJECT_DIR$/../async_task_test/project.properties" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379308448476" ignored="false" />
-    <file path="/fragment.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379479137391" ignored="false" />
+    <file path="/fragment.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379565468811" ignored="false" />
     <file path="/UserPics.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379325493468" ignored="false" />
     <file path="/photo_pickers.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379531605412" ignored="false" />
     <file path="/PhotoPicker.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379530818629" ignored="false" />
@@ -71,6 +73,7 @@
     <file path="/LookAtCollage.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379485020403" ignored="false" />
     <file path="/send_collage_button.xml" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379486890359" ignored="false" />
     <file path="/ShareCollageBtn.java" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379486121407" ignored="false" />
+    <file path="/a.dummy" changelist="711af340-fc5b-4575-9189-23fbfbb743bd" time="1379565393836" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +88,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -121,7 +125,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -136,10 +139,7 @@
         <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/PhotoPicker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="224" column="59" selection-start="10072" selection-end="10072" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#3863#4458#0" expanded="true" />
-                <element signature="e#4439#4440#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="48" selection-start="255" selection-end="255" vertical-scroll-proportion="-3.4">
+            <state line="5" column="48" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,7 +183,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="37" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-17.68">
+            <state line="26" column="37" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -201,7 +201,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.32352942">
+            <state line="28" column="51" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.8206897">
               <folding />
             </state>
           </provider>
@@ -222,7 +222,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="43" selection-start="355" selection-end="355" vertical-scroll-proportion="-4.08">
+            <state line="9" column="43" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -275,10 +275,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
-    <option name="y" value="304" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -330,8 +330,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -456,11 +456,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Android Application.robot_test">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -495,6 +495,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -521,19 +534,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -641,10 +641,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="304" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.6672" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,26 +655,27 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19924243" sideWeight="0.6144" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22878788" sideWeight="0.6672" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19903949" sideWeight="0.6681367" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33186328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.6097023" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39824945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32453245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.6672" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="combo" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22878788" sideWeight="0.6672" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.6097023" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -814,18 +814,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="255" selection-end="255" vertical-scroll-proportion="-3.4">
+        <state line="5" column="48" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/PhotoPicker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="59" selection-start="10072" selection-end="10072" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#3863#4458#0" expanded="true" />
-            <element signature="e#4439#4440#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +831,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-17.68">
+        <state line="26" column="37" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -858,7 +848,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="355" selection-end="355" vertical-scroll-proportion="-4.08">
+        <state line="9" column="43" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -870,9 +860,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/redmadrobot/test/PhotoPicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="59" selection-start="10072" selection-end="10072" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.32352942">
+        <state line="28" column="51" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.8206897">
           <folding />
         </state>
       </provider>
